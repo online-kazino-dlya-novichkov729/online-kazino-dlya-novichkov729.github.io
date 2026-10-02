@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://online-kazino-dlya-novichkov729.github.io/sitemap.xml
